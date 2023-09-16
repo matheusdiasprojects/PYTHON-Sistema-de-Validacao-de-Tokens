@@ -34,4 +34,4 @@ Você pode contribuir para este projeto de várias maneiras:
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto é distribuído sob a licença MIT.
